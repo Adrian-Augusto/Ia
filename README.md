@@ -1,6 +1,7 @@
 # 🧠 Assistente de Programação com IA (Gemini + Tkinter)
 
 Este é um assistente inteligente de programação construído com Python, integrando:
+- Captura som de fundo e responde(Perguntas)
 - 🎙️ Reconhecimento de voz com `SpeechRecognition`
 - 🤖 Geração de respostas com `Google Gemini`
 - 🖥️ Interface gráfica com `Tkinter`
